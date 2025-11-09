@@ -17,7 +17,6 @@ import {
   MapPin,
   Sun,
   Moon,
-  Rocket,
   Brain,
   Shield,
   ArrowRight,
