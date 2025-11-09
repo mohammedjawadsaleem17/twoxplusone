@@ -84,7 +84,7 @@ export default function Landing() {
     setShowModal(false);
   } catch (error) {
     console.error("EmailJS error:", error);
-    toast.error("Seems there is some issue at our end kindly email us on twoxplusone@gmail.com");
+    toast.error("Seems there is some issue at our end kindly email us on twoxplusoneserver@gmail.com");
   }
  };
 
