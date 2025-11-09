@@ -567,7 +567,7 @@ export default function Landing() {
               {
                 icon: <Mail className="w-8 h-8" />,
                 title: "Email",
-                value: "mohammedjawadsaleem11@gmail.com",
+                value: "twoxplusoneserver@gmail.com",
                 color: "from-purple-500 to-pink-500",
               },
               {
