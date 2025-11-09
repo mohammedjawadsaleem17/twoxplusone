@@ -345,13 +345,13 @@ export default function Landing() {
                     darkMode ? "bg-slate-800/50" : "bg-gray-100"
                   } flex-1`}
                 >
-                  <div className="text-4xl font-black text-pink-500">50+</div>
+                  <div className="text-4xl font-black text-pink-500">Multiple Projects</div>
                   <div
                     className={`text-sm ${
                       darkMode ? "text-gray-400" : "text-gray-600"
                     }`}
                   >
-                    Projects
+                    
                   </div>
                 </div>
                 <div
